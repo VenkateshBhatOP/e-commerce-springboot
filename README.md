@@ -191,6 +191,6 @@ public class EcommerceApplication {
 
 ## Conclusion
 
-We also take a look at client-server architecture for REST API using Spring Web MVC & Spring Data JPA, as well, we are gooing to continue with Angular 10 project structure for building a front-end app to make HTTP requests and consume responses.
+We also take a look at client-server architecture for REST API using Spring Web MVC & Spring Data JPA, as well, we are going to continue with Angular 10 project structure for building a front-end app to make HTTP requests and consume responses.
 
 
